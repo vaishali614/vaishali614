@@ -1,10 +1,10 @@
-[![Header](https://github.com/vaishali614/vaishali614/blob/main/assets/Vaishali.PNG "Header")](https://github.com/vaishali614)
+[![Header](https://github.com/vaishali614/vaishali614/blob/master/assets/Vaishali.PNG "Header")](https://github.com/vaishali614)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/vaishali614"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/vaishali6111"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@vaishalithakur614"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.stopstalk.com/user/profile/victor_tango"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/stopstalk.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vaishali614"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/vaishali6111"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@vaishalithakur614"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.stopstalk.com/user/profile/victor_tango"><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/stopstalk.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## Hola 👋
@@ -15,16 +15,16 @@ I'm the co-founder of [Girl Code It](https://www.linkedin.com/company/girl-code-
 
 ## 💻 Languages and Tools
 
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/cpp.svg"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/html.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/css.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/bootstrap.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/react.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/photoshop.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/xd.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/cpp.svg"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/html.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/css.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/bootstrap.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/react.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/photoshop.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/xd.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/vaishali614/vaishali614/blob/master/assets/git.png"></code>&nbsp;&nbsp;
 &nbsp;&nbsp;
 
 ## 🔭 My projects
