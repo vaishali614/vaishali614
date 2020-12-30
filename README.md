@@ -29,7 +29,7 @@ I'm the co-founder of [Girl Code It](https://www.linkedin.com/company/girl-code-
 
 ## 🔭 My projects
 
-- [Opportunity Calendar](https://github.com/Girl-Code-It/Opportunity-Calendar-Backend)
+- [Opportunity Calendar](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
 - [Girl Code It Website](https://github.com/Girl-Code-It/Girl-Code-It-Website-Frontend)
 
 👯 Above projects are open sourced. Feel free to make any contributions.
