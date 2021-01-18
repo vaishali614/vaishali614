@@ -11,7 +11,7 @@
 
 I'm Vaishali Thakur, a coding enthusiast and a frontend web developer. 
 
-I'm the co-founder of [Girl Code It](https://www.linkedin.com/company/girl-code-it/). Girl Code It aka GCI is a group of people who firmly believe that "Knowledge grows when shared" and is eager to build a healthy coding culture among young coders. Being an avid coder, I want to contribute my best to the society! 😄
+I'm the co-founder of [Girl Code It](https://girlcodeit.com). Girl Code It aka GCI is a group of people who firmly believe that "Knowledge grows when shared" and is eager to build a healthy coding culture among young coders. Being an avid coder, I want to contribute my best to the society! 😄
 
 ## 💻 Languages and Tools
 
